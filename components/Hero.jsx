@@ -2,7 +2,7 @@ import React from 'react';
 
 const Hero = () => {
     return (
-        <div className="relative h-screen flex items-end justify-center">
+        <div className="relative w-screen h-screen flex items-end justify-center">
             <div className="absolute inset-0 bg-[url('/images/hero.jpg')] bg-cover bg-center z-[-1] filter brightness-75">
             </div>
 
